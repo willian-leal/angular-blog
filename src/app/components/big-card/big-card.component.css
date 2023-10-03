@@ -1,5 +1,5 @@
 .container__big-card {
-  width: 273px;
+  width: 366px;
   display: flex;
   flex-direction: column;
 }
@@ -12,7 +12,7 @@
 .big-card__photo > img {
   width: 100%;
   min-width: 273px;
-  height: 167px;
+  height: 185px;
 }
 
 .big-card__data > span {
